@@ -8,8 +8,9 @@ The hkx animation files of Bloodborne cannot be opened directly with Havok's Too
 
 ### Usage
 
-Place the .hkx files in the IN folder, and launch the program. The converted .hkx files will be in the OUT folder.
-The files can be opened now with Havok Tools 2014 64-bit. You need to load both the Skeleton.hkx and the animation file together to preview.
+Run the program, and Choose the folder you have the HKX files in (The program creates a folder called "Place_HKX_Here", which you can place your files there as well). The result files will be in the "Output" folder created in the same folder the HKX files are in.
+The files can be opened now with Havok Tools 2014 64-bit.
+You need to load both the Skeleton.hkx and the animation file together to preview.
 
 ### Donation
 If you want to support my work, then consider donating even if it's a small amount :)
