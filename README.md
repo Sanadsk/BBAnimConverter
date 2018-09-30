@@ -1,5 +1,6 @@
 # BBAnimConverter
 A tool that converts Bloodborne's PS4 animations to HavokTools-friendly files
+Download available in the "Release" section above!
 
 
 ## Tool Description
