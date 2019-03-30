@@ -22,6 +22,6 @@ https://PayPal.Me/Sanadsk
 
 ### To-Do List
 
-- Adding support for "root" motion animations
+- Adding support for "root" motion animations (Feature added in update 1.1)
 - Implementing a method to directly convert the animations to 32-bit files
 
